@@ -1,0 +1,18 @@
+# Bibliothèques principales
+numpy==2.0.2
+pandas==2.3.0
+scikit-learn==1.5.1
+joblib==1.5.1
+
+# Visualisation
+folium==0.17.0
+plotly==5.18.0
+
+# Base de données
+mysql-connector-python==8.0.33
+
+# Traitement des données
+scipy==1.13.1
+
+# Pour la sérialisation des modèles
+pickle-mixin==1.0.2
